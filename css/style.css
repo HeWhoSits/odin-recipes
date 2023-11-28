@@ -1,0 +1,21 @@
+html{
+    background-color: grey;
+    background-image: url(../images/websitebackground.jpg);
+    background-size:cover;
+}
+h1{
+    font-size: 100px;
+    margin-right: 650px
+}
+
+ul{
+    font-size: 50px;
+    line-height: 150px;
+}
+a:link {
+    color: green;
+}
+
+a:visited{
+    color: green;
+}
